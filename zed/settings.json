@@ -1,0 +1,77 @@
+{
+	"agent": {
+		"button": false,
+		"enable_feedback": false,
+		"sidebar_side": "right"
+	},
+	"autosave": "on_window_change",
+	"buffer_font_family": ".ZedMono",
+	"buffer_font_features": {
+		"calt": true
+	},
+	"buffer_font_size": 15,
+	"cli_default_open_behavior": "existing_window",
+	"code_actions_on_format": {
+		"source.fixAll.biome": true,
+		"source.organizeImports.biome": true
+	},
+	"collaboration_panel": {
+		"button": false
+	},
+	"current_line_highlight": "none",
+	"cursor_blink": false,
+	"edit_predictions": {
+		"mode": "subtle"
+	},
+	"git": {
+		"inline_blame": {
+			"enabled": false
+		}
+	},
+	"git_panel": {
+		"dock": "left"
+	},
+	"hard_tabs": true,
+	"hover_popover_hiding_delay": 0,
+	"icon_theme": {
+		"dark": "Catppuccin Macchiato",
+		"light": "Catppuccin Latte",
+		"mode": "dark"
+	},
+	"mouse_wheel_zoom": true,
+	"outline_panel": {
+		"button": false
+	},
+	"project_panel": {
+		"dock": "left",
+		"entry_spacing": "comfortable",
+		"git_status": true,
+		"git_status_indicator": false,
+		"hide_root": true
+	},
+	"proxy": "",
+	"tab_size": 4,
+	"tabs": {
+		"file_icons": true
+	},
+	"terminal": {
+		"copy_on_select": true,
+		"shell": {
+			"program": "nu"
+		},
+		"toolbar": {
+			"breadcrumbs": false
+		}
+	},
+	"theme": {
+		"dark": "Catppuccin Macchiato",
+		"light": "Catppuccin Latte",
+		"mode": "dark"
+	},
+	"toolbar": {
+		"breadcrumbs": false,
+		"quick_actions": false
+	},
+	"ui_font_family": ".ZedSans",
+	"ui_font_size": 15
+}
